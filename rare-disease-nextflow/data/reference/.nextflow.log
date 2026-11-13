@@ -1,0 +1,16 @@
+нояб.-12 21:08:36.127 [main] DEBUG nextflow.cli.Launcher - $> nextflow run main.nf --metadata data/case_01_metadata.json --phenotype data/case_01_phenotype.json --variants data/case_01_variants.tsv --reference_fasta data/reference/GRCh38.fa --outdir results
+нояб.-12 21:08:36.167 [main] DEBUG nextflow.cli.CmdRun - N E X T F L O W  ~  version 26.10.5
+нояб.-12 21:08:36.184 [main] DEBUG nextflow.plugin.PluginsFacade - Setting up plugin manager > mode=prod; embedded=false; plugins-dir=/Users/alisasenko/.nextflow/plugins; core-plugins: nf-agent-pi@0.6.0,nf-agent@0.2.0,nf-amazon@3.12.1,nf-azure@1.24.3,nf-cloudcache@0.6.2,nf-codecommit@0.6.1,nf-console@1.3.1,nf-google@1.29.1,nf-k8s@1.6.2,nf-seqera@0.26.2,nf-tower@1.32.2,nf-wave@1.22.5
+нояб.-12 21:08:36.200 [main] INFO  o.pf4j.DefaultPluginStatusProvider - Enabled plugins: []
+нояб.-12 21:08:36.201 [main] INFO  o.pf4j.DefaultPluginStatusProvider - Disabled plugins: []
+нояб.-12 21:08:36.202 [main] INFO  org.pf4j.DefaultPluginManager - PF4J version 3.14.1 in 'deployment' mode
+нояб.-12 21:08:36.213 [main] DEBUG nextflow.util.RetryConfig - Missing nextflow session - using default retry config
+нояб.-12 21:08:36.318 [main] DEBUG nextflow.plugin.PluginUpdater - Using plugin repository: HttpPluginRepository [registry]; url=https://registry.nextflow.io/api
+нояб.-12 21:08:36.322 [main] INFO  org.pf4j.AbstractPluginManager - No plugins
+нояб.-12 21:08:36.330 [main] DEBUG nextflow.scm.ProviderConfig - Using SCM config path: /Users/alisasenko/.nextflow/scm
+нояб.-12 21:08:36.341 [main] DEBUG nextflow.cli.Launcher - Operation aborted
+nextflow.exception.AbortOperationException: Cannot find script file: main.nf
+	at nextflow.cli.CmdRun.getScriptFile(CmdRun.groovy:578)
+	at nextflow.cli.CmdRun.run(CmdRun.groovy:341)
+	at nextflow.cli.Launcher.run(Launcher.groovy:535)
+	at nextflow.cli.Launcher.main(Launcher.groovy:641)

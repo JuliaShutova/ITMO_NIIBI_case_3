@@ -1,0 +1,134 @@
+{
+  "id": "case_01",
+  "subject": {
+    "id": "case_01"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000218"
+      },
+      "excluded": false
+    },
+    {
+      "type": {
+        "id": "HP:0000278"
+      },
+      "excluded": false
+    },
+    {
+      "type": {
+        "id": "HP:0000325"
+      },
+      "excluded": false
+    },
+    {
+      "type": {
+        "id": "HP:0000426"
+      },
+      "excluded": false
+    },
+    {
+      "type": {
+        "id": "HP:0000494"
+      },
+      "excluded": false
+    },
+    {
+      "type": {
+        "id": "HP:0000520"
+      },
+      "excluded": false
+    },
+    {
+      "type": {
+        "id": "HP:0001166"
+      },
+      "excluded": false
+    },
+    {
+      "type": {
+        "id": "HP:0001622"
+      },
+      "excluded": false
+    },
+    {
+      "type": {
+        "id": "HP:0001634"
+      },
+      "excluded": false
+    },
+    {
+      "type": {
+        "id": "HP:0003758"
+      },
+      "excluded": false
+    },
+    {
+      "type": {
+        "id": "HP:0004482"
+      },
+      "excluded": false
+    },
+    {
+      "type": {
+        "id": "HP:0005328"
+      },
+      "excluded": false
+    },
+    {
+      "type": {
+        "id": "HP:0008081"
+      },
+      "excluded": false
+    },
+    {
+      "type": {
+        "id": "HP:0009064"
+      },
+      "excluded": false
+    },
+    {
+      "type": {
+        "id": "HP:0011220"
+      },
+      "excluded": false
+    },
+    {
+      "type": {
+        "id": "HP:0000369"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000545"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001083"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002804"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002808"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0004942"
+      },
+      "excluded": true
+    }
+  ]
+}

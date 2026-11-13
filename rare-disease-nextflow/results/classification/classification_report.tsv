@@ -1,0 +1,5 @@
+category	count	file
+snv	406	snv.vcf.gz
+indel	0	indel.vcf.gz
+sv	0	sv.vcf.gz
+unclassified	0	unclassified.vcf.gz

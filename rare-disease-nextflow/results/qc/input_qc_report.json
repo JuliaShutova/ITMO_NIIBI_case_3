@@ -1,0 +1,19 @@
+{
+  "status": "PASS",
+  "errors": [],
+  "warnings": [],
+  "files": {
+    "metadata": {
+      "exists": true,
+      "readable": true
+    },
+    "phenotype": {
+      "exists": true,
+      "readable": true
+    },
+    "variants": {
+      "exists": true,
+      "readable": true
+    }
+  }
+}

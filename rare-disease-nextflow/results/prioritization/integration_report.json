@@ -1,0 +1,8 @@
+{
+  "case_id": "case_01",
+  "assembly": "GRCh38",
+  "n_ranked_variants": 406,
+  "n_phen2gene_rows": 16459,
+  "n_lirical_rows": 0,
+  "warning": "Baseline heuristic only. Missing annotations are not benign evidence. Disease-level LIRICAL scores are not automatically variant-level scores."
+}
